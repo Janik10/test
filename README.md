@@ -57,7 +57,7 @@ JWT-токен в Swagger: Authorize > Bearer {token}
 
 Создаётся BorrowedBook, quantity -= 1
 
-↺ /borrow/return
+/borrow/return
 
 Есть активная запись (return_date = NULL)?
 
